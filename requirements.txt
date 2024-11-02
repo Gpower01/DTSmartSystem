@@ -1,0 +1,9 @@
+matplotlib
+plotly
+pandas
+numpy
+seaborn
+sqlalchemy==1.3.9
+ipython-sql
+pyspark
+sklearn
