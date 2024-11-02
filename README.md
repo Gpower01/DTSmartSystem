@@ -7,7 +7,7 @@ This application integrates Digital twin, AI, Generative AI and Large Language M
 * Git 
 * GitHub Account 
 * Anaconda3
-* Virtual Studio Code 
+* Visual Studio Code 
 
 **Virtual Environment**
 ```
@@ -28,3 +28,4 @@ git clone ..DTSmartSystem.git
 #### Model Development 
 * data 
 * models
+
